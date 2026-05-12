@@ -225,3 +225,16 @@ xpAcumulado
 | API | API Gateway |
 | Auth | JWT ou Cognito |
 | Cloud | AWS |
+
+
+## 👤 Integrantes
+
+- [Bianca Nunes](https://github.com/bianunees)
+- [Eloisa Gomes](https://github.com/EloisadsGomes)
+- [Julia Harumi](https://github.com/juliaharumi2006)
+- [Lauren Reis](https://github.com/LaurenJReis)
+- [Paola Costa](https://github.com/paolacostxx)
+- [Paola de Oliveira](https://github.com/paolazchs)
+- [Sara Roza](https://github.com/sfrosmaninho)
+- [Vitor Fogaça](https://github.com/vitorh07)
+
